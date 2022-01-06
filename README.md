@@ -9,10 +9,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Barba-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Barba-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-</div>
-
-  ##
   
-  <div>
-    ![Snake animation](https://github.com/codebarba/codebarba/blob/output/github-contribution-grid-snake.svg) 
-  </div>
+  ![Snake animation](https://github.com/codebarba/codebarba/blob/output/github-contribution-grid-snake.svg) 
+</div>
